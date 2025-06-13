@@ -1,0 +1,63 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+.navbar {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
+
+.navbar a {
+  
+    margin-left: 15px;
+    text-decoration: none;
+color: black;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+
+
+
+
+.left-image {
+    position: absolute;
+    top: 170px;
+    left: 45%;
+}
+
+.profile {
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.center-text {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.center-text h1 {
+    font-size: 36px;
+    color: darkgreen;
+}
+.intro {
+    position: absolute;
+  bottom: 50px;
+  width: 100%;
+  text-align: center;
+  font-size: 35px;
+}
+body{
+    background-image: url(back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}

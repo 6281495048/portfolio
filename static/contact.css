@@ -1,0 +1,29 @@
+#contact {
+    text-align: center;
+    
+    
+
+}
+.navbar {
+    position: absolute;
+    top: 20px;
+    right: 80px;
+}
+
+.navbar a {
+  
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+    
+}
+.contact-details {
+    text-align: center;
+    
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    display: block;
+}
